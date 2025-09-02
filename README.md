@@ -1,3 +1,4 @@
 # my-first-repo
-This is my first Git Repositary
+This is my first Git Repositary.
+<br>
 Author - Poojitha
